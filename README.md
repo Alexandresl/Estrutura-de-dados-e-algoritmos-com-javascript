@@ -23,3 +23,10 @@ Exemplos do livro da Loiane Groner -2ª Edição
     * Em segundo lugar, os algoritmos são estudados nas faculdades, junto com os conceitos introdutórios de ciência da computação. 
     * Por fim, se você planeja conseguir um emprego em uma das maiores empresas de **TI** - como Google, Amazon, Microsoft, eBay e outras -, as estruturas de dados e os algoritmos serão assuntos das pergurnas nas entrevistas.
 
+### Configurando o ambiente
+
+* Um navegador (Chrome ou Firefox);
+* um editor de texto (VSCode)
+* Um servidor web (XAMPP) - Opcional
+
+
