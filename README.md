@@ -29,4 +29,23 @@ Exemplos do livro da Loiane Groner -2ª Edição
 * um editor de texto (VSCode)
 * Um servidor web (XAMPP) - Opcional
 
+### Configuração mínima para trabalhar com JavaScript
 
+### Usando servidores Web
+
+* Uma opção é usar uma extensão do Chrome chmada [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en)
+
+### http-server do Node.js
+
+* A terceira opção é ter um ambiente 100% JavaScript!
+    * Instale o [Node.js](https://nodejs.org/en/)
+    * Instale o http-server a partir do comando: ```npm install http-server -g``` (Windows) ou ```sudo npm install http-server -g``` (Linux e Mac)
+* O comando instalará o * http-server*, um servidor JavaScript. Para iniciar um servidor e executar os exemplos deste livro na aplicação do Terminal, mude o diretório para a pasta que contém o código-fonte do livro e digite *http-server*. Para executar os exemplos, abra o navegador e acesse o localhost na porta especificada pelo comando *http-server*.
+
+### Básico sobre o JavaScript
+
+[01-HelloWorld.html](Capítulo 1/01-HelloWorld.html)
+[01-HelloWorld.js](Capítulo 1/01-HelloWorld.js)
+[01-HelloWorld.html](Capítulo 1/01-HelloWorld2.html)
+
+* Você poderá encontrar instruções *include* de JavaScript ou código JavaScript na tag *head* em alguns exemplos na internet. Seguindo a melhor prática, incluiremos qualquer código JavaScript no final da tag *body*. Desse modo, o navegador fará o parse do HTML, e ele será exibido antes de os scripts serem carregados. Com isso, a página terá um melhor desempenho.
