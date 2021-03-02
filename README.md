@@ -1,6 +1,7 @@
 # Estruturas de dados e altoritmos com JavaScript
 
 Exemplos do livro da Loiane Groner -2ª Edição
+
 [Link dos exemplos online](https://javascript-ds-algorithms-book.firebaseapp.com/)
 
 [Código fonte dos exemplos](https://github.com/loiane/javascript-datastructures-algorithms)
@@ -31,6 +32,6 @@ Exemplos do livro da Loiane Groner -2ª Edição
 
 ### Básico sobre o JavaScript
 
-[01-HelloWorld.html](Capítulo 1/01-HelloWorld.html)
+[01-HelloWorld.html](/Capítulo 1/01-HelloWorld.html)
 
-[01-HelloWorld.js](Capítulo 1/01-HelloWorld.js)
+[01-HelloWorld.js](/Capítulo 1/01-HelloWorld.js)
