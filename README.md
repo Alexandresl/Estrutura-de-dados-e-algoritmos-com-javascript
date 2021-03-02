@@ -32,6 +32,6 @@ Exemplos do livro da Loiane Groner -2ª Edição
 
 ### Básico sobre o JavaScript
 
-[01-HelloWorld.html](Capítulo 1\01-HelloWorld.html)
+[01-HelloWorld.html](Capitulo-1/01-HelloWorld.html)
 
-[01-HelloWorld.js](Capítulo 1\01-HelloWorld.js)
+[01-HelloWorld.js](Capitulo-1/01-HelloWorld.js)
